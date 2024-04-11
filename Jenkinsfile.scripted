@@ -12,7 +12,7 @@ pipeline {
     PUBLIC_IP = ""
     NODE_PORT = 30008 
     IMAGE_TAG = ""
-    BUILD_USER = "vkarkad" 
+    BUILD_USER = "vagrant" 
   }
 
   stages {
